@@ -1,0 +1,13 @@
+.internal-exam-container{
+   width: 100%;
+   max-width: 600px;
+}
+
+.click-the-card {
+   font-style: italic;
+}
+
+.star {
+   width: 48px;
+   font-style: italic;
+}

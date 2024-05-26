@@ -1,0 +1,61 @@
+.hall-main-container{
+   width: 100%;
+   max-width: 600px;
+   border-radius: 10px;
+   border: 2px solid white;
+   margin-bottom: 20px;
+   padding: 10px;
+}
+.hall-heading{
+   color: white;
+   font-size: 20px;
+   text-align: center;
+   margin: 0px;
+}
+.student-data-card h1{
+   color: white;
+   font-size: 18px;
+   margin-top: 10px;
+}
+.para-of-confidetial{
+   text-align: start;
+   /* width: 100%; */
+   color: white;
+   font-weight: 500;
+   font-size: 12px;
+   text-wrap: wrap;
+   margin: 0px;
+   background-color: red;
+   padding: 5px ;
+   border-radius: 5px;
+   font-family: "Roboto";
+}
+.rise-issue{
+   color: rgb(30, 255, 0);
+}
+.search-container{
+   display: flex;
+   gap: 10px;
+}
+.or{
+   color: white;
+   margin: 0px;
+   margin-bottom: 10px;
+   text-align: center;
+}
+.searched-data-ul{
+   padding: 10px;
+   background-color: white;
+}
+.unlock-container{
+   color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+.white{
+   color: white;
+   margin-left: 8px;
+}
