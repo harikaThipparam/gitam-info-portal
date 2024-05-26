@@ -1,0 +1,28 @@
+.internal-exam-container{
+   width: 100%;
+   max-width: 600px;
+}
+
+.click-the-card {
+   font-style: italic;
+}
+
+.star {
+   width: 48px;
+   font-style: italic;
+}
+.modal-footer{
+   /* border: 2px solid red; */
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.end-para{
+   color: red;
+   font-weight: 500;
+   /* border: 2px solid green; */
+
+   text-align: start;
+   /* width: 100%; */
+   margin: 0px;
+}

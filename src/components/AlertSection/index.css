@@ -1,0 +1,13 @@
+.alerts-main-container{
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   max-width: 600px;
+}
+.alert-card-container{
+   width: 100%;
+}
+.randommmmm{
+   border: 2px solid red;
+   width: 100% !important;
+}

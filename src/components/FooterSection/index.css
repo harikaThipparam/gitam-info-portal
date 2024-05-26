@@ -1,0 +1,13 @@
+.footer-section {
+   align-self: flex-end;
+   width: 100%;
+   max-width: 600px;
+   /* border: 2px solid red; */
+   align-self: center;
+   text-align: end;
+}
+
+.copy-right {
+   color: white;
+   font-style: italic;
+}

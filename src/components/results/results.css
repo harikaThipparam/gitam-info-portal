@@ -1,0 +1,91 @@
+.results-main-container{
+   width: 100%;
+   max-width: 600px;
+   border-radius: 10px;
+   border: 2px solid white;
+   margin-bottom: 20px;
+   padding: 10px;
+}
+.results-heading{
+   color: white;
+   font-size: 20px;
+   text-align: center;
+   margin: 0px;
+}
+.wating-tag{
+   text-align: center;
+   color: white;
+}
+
+.table-container {
+   border-collapse: collapse;
+   width: 100%;
+   border: 0;
+   border-color: #111111;
+   pointer-events: none; /* Disable all mouse events */
+  user-select: none;    /* Prevent text selection */
+  opacity: 0.5; 
+ }
+ 
+ .table-container td {
+   width: 100%;
+ }
+ 
+ .table-container p {
+   margin: 0;
+ }
+ 
+ .header-text {
+   text-align: center;
+   font-family: Arial, sans-serif;
+   font-size: 14px;
+   font-weight: bold;
+ }
+ 
+ .date-text {
+   text-align: right;
+   font-family: Arial, sans-serif;
+   font-size: 12px;
+ }
+ 
+ .form-table {
+   border-collapse: collapse;
+   width: 100%;
+   height: 19px;
+   border: 1px solid #111111;
+   margin: 0 auto;
+ }
+ 
+ .form-table td {
+   background-color: #fefcf5;
+   text-align: center;
+   height: 16px;
+ }
+ 
+ .input-text {
+   font-family: Arial, sans-serif;
+   font-size: 14px;
+   font-weight: bold;
+   color: black;
+ }
+ 
+ .input-warning {
+   font-family: Verdana, sans-serif;
+   font-size: 14px;
+   color: #ff0000;
+   font-weight: bold;
+ }
+ 
+ .go-button{
+   margin-left: 10px;
+   border:none;
+   color: red;
+   background-color: transparent;
+   font-weight: 700;
+   border-radius: 5px;
+ }
+ .cp-text{
+   color: rgb(255, 255, 255);
+   font-weight: 500;
+   font-size: 14px;
+ }

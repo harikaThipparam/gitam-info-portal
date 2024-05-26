@@ -1,0 +1,47 @@
+.login-main-container{
+    height: 90vh;
+    width: 100%;
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+@media screen and (min-width:567px) {
+   .login-main-container{
+       height: 85vh;
+   }
+}
+
+.login-sub-container {
+    background-color: #020c38;
+    background-image: linear-gradient(to right, #020c38, #054042);
+    padding: 10px 0px;
+    width: 100vw;
+ }
+ .heading {
+    margin: 0px;
+    font-family: Roboto;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+ }
+ .note-para {
+    margin: 0px;
+    text-align: center;
+    font-size: 13px;
+    color: white;
+    margin-top: 7px;
+    font-weight: 500;
+    font-style: italic;
+ }
+
+ .login-bg-container {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
